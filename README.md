@@ -6,7 +6,7 @@ Current co-owner of [google-map-react](https://github.com/google-map-react/googl
 
 - 🔭 I’m currently working as a Freelancer, always open to new challenges.
 - 🌱 I’m currently learning [React Native](https://github.com/facebook/react-native)
-- 👯 I’m looking to collaborate on sustainability or plant-based projects.
+- 👯 I’m looking to collaborate on sustainable or plant-based projects.
 - 🤔 I’m looking for help with [google-map-react](https://github.com/google-map-react/google-map-react), we need more collaborators!
 - 💬 Ask me about my life as a digital nomad, I've been to 38 countries and counting...
 - 📫 How to reach me: itsmichaeldiego@gmail.com or through [my LinkedIn profile](https://www.linkedin.com/in/itsmichaeldiego)
