@@ -11,4 +11,4 @@ Current co-owner of [google-map-react](https://github.com/google-map-react/googl
 - 💬 Ask me about my life as a digital nomad, I've been to 38 countries and counting...
 - 📫 How to reach me: itsmichaeldiego@gmail.com or through [my LinkedIn profile](https://www.linkedin.com/in/itsmichaeldiego)
 - 😄 Pronouns: He / Him / They
-- ⚡ Fun fact: Besides all of that, I am also a diver.
+- ⚡ Fun fact: Besides all of that, I am also a certified scuba and free diver, I love the marine world and its peacefulness.
