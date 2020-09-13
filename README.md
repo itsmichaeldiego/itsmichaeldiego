@@ -4,7 +4,7 @@ I am an enthusiastic JS Developer, a traveler, an ecologist and a dreamer. I rea
 
 Current co-owner of [google-map-react](https://github.com/google-map-react/google-map-react)
 
-- 🔭 I’m currently working as a freelancer for multiple projects. 
+- 🔭 I’m currently working as a Freelancer, always open to new challenges.
 - 🌱 I’m currently learning [React Native](https://github.com/facebook/react-native)
 - 👯 I’m looking to collaborate on sustainability or plant-based projects.
 - 🤔 I’m looking for help with [google-map-react](https://github.com/google-map-react/google-map-react), we need more collaborators!
