@@ -4,8 +4,8 @@ I am an enthusiastic JS Developer but also a traveler, an ecologist and a dreame
 
 Current co-owner of [google-map-react](https://github.com/google-map-react/google-map-react)
 
-- 🔭 I’m currently open for hire [LinkedIn](https://www.linkedin.com/in/itsmichaeldiego/)
-- 🌱 I’m learning [React Native](https://github.com/facebook/react-native)
+- 🔭 I’m open for hire [LinkedIn](https://www.linkedin.com/in/itsmichaeldiego/)
+- 🌱 I’m currently learning and interested in [React Native](https://github.com/facebook/react-native)
 - 👯 I’m looking to collaborate on sustainable or plant-based projects.
 - 🤔 I’m looking for help with [google-map-react](https://github.com/google-map-react/google-map-react), we need more collaborators!
 - 💬 Ask me about my life as a digital nomad, I've been to 38 countries and counting...
