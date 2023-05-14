@@ -9,5 +9,4 @@ Current co-owner of [google-map-react](https://github.com/google-map-react/googl
 - 👯 I’m looking to collaborate on sustainable or plant-based projects.
 - 🤔 I’m looking for help with [google-map-react](https://github.com/google-map-react/google-map-react), we need more collaborators!
 - 💬 Ask me about my life as a digital nomad, I've been to 38 countries and counting...
-- 😄 Pronouns: He / Him / They
-- ⚡ Fun fact: I love Yoga 🧘
+- ⚡ Fun fact: I love Yoga and Cycling 🧘:byciclist:
