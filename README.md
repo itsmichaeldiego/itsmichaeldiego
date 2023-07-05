@@ -6,7 +6,7 @@ One of my notable accomplishments is being a co-creator of google-map-react, a p
 
 Here's a glimpse into my professional interests and aspirations:
 
-- 🔭Available for hire and seeking new opportunities. Let's connect on [LinkedIn!](https://www.linkedin.com/in/itsmichaeldiego/)
+- 🔭 Available for hire and seeking new opportunities. Let's connect on [LinkedIn!](https://www.linkedin.com/in/itsmichaeldiego/)
 - 🌱 Currently exploring React Native [React Native](https://github.com/facebook/react-native) and embracing continuous learning.
 - 👯 Interested in collaborating on sustainable projects.
 - 🤔 Seeking collaborators for [google-map-react](https://github.com/google-map-react/google-map-react), we need more collaborators!
